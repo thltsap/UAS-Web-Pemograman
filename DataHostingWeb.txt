@@ -1,0 +1,16 @@
+--- Data UAS Web 2020 ---
+label: lightworkshop.ga
+usn: epiz_27584003
+Pass: jEmaquDP2OAaDHB
+
+--- Data Buat Upload Html dll ---
+Host: ftpupload.net
+Usn: epiz_27584003
+Pass:jEmaquDP2OAaDHB
+Port:21
+
+--- Data Databases ---
+$namaHost = "sql202.epizy.com";
+$username = "epiz_27584003";
+$password = "jEmaquDP2OAaDHB";
+$database = "epiz_27584003_dbbengkel";
